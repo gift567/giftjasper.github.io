@@ -10,8 +10,8 @@
 
 body{
   background: #11998e; 
-  background: -webkit-linear-gradient(to right, #38ef7d, #11998e); 
-  background: linear-gradient(to right, #38ef7d, #11998e); 
+  background: -webkit-linear-gradient(to right, #e4f7eb, #112a99); 
+  background: linear-gradient(to right, #f2f5f3, #112a99); 
 }
 
 .card {
@@ -34,7 +34,7 @@ body{
   top: -30px;
   border-radius: 12px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  background-image: linear-gradient(to right, #1dd1a1, #1abc9c);
+  background: linear-gradient(to left, #112a99, #112a99); 
 }
 
 
@@ -109,7 +109,7 @@ i {
 .body ul li h3 {
   top: -17px;
   left: 58px;
-  color: #16a085;
+  color: #2416a0;
   
 }
 
@@ -118,13 +118,13 @@ i {
   left: 59px;
   font-size: 12px;
   font-family: sans-serif;
-  color: #16a085;
+  color: #2416a0;
 }
 
 .body ul li i {
   left: 8px;
   top: 7px;
-  color: #16a085;
+  color: #2416a0;
   font-size: 26px;
 }
 
@@ -145,7 +145,7 @@ i {
 }
 
 .body li:hover {
-  background-color: #16a085;
+  background-color: #3528e6;
   cursor: pointer;
 }
 
@@ -164,7 +164,7 @@ i {
   width:95%;
   margin: 0 auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  background-image: linear-gradient(to right, #1dd1a1, #1abc9c);
+  background: linear-gradient(to right, #f2f5f3, #112a99); 
 }
 
 .footer ul {
