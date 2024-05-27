@@ -37,6 +37,8 @@ body{
   background-image: linear-gradient(to right, #1dd1a1, #1abc9c);
 }
 
+
+
 .header img {
   position: absolute;
   height: 120px;
@@ -50,11 +52,12 @@ body{
   position: absolute;
   font-family: sans-serif;
   color: white;
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 1px;
-  top: 118px;
-  left: 90px;
+  top: 132px;
+  left: 60px;
+  text-align: center;
 }
 
 .header p {
@@ -63,7 +66,7 @@ body{
   color: rgb(236, 233, 233);
   font-size: 13px;
   top: 166px;
-  left: 90px
+  left: 60px
 }
 
 .body {
